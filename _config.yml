@@ -2,7 +2,7 @@
 # Learn more at https://jupyterbook.org/customize/config.html
 
 title: SPH4U Course Book 
-author: (x)
+author: JHM
 logo: logo.png
 
 # Force re-execution of notebooks on each build.
